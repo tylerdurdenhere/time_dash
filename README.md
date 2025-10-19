@@ -25,6 +25,8 @@ Each success reduces the allowed time, testing your reaction speed and focus.
 | Windows | ![windows](run_proofs/windows.png) |
 
 ## 🎬 Gameplay Clips
-[Watch Gameplay Clip](run_proofs/android_clip.mp4)
-[Watch Gameplay Clip](run_proofs/web(chrome)_clip.mp4)
-[Watch Gameplay Clip](run_proofs/windows_clip.mp4)
+[Watch Gameplay Clip - Android](run_proofs/android_clip.mp4)
+
+[Watch Gameplay Clip - Web(chrome)](run_proofs/web(chrome)_clip.mp4)
+
+[Watch Gameplay Clip - Windows](run_proofs/windows_clip.mp4)
