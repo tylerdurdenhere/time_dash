@@ -1,16 +1,30 @@
-# time_dash
+# 🕹️ TimeDash
 
-A new Flutter project.
+**TimeDash** is a fast paced reaction mini game built using Flutter for Mobile, Web, and Windows.
 
-## Getting Started
+## 🎯 Concept
+Tap the circle before the shrinking progress bar runs out.  
+Each success reduces the allowed time, testing your reaction speed and focus.
 
-This project is a starting point for a Flutter application.
+## 🧠 Features
+- Animated progress bar and tap effects  
+- Adaptive difficulty  
+- Tracks score, streaks, and average reaction  
+- Works on Android, Web, and Windows
 
-A few resources to get you started if this is your first Flutter project:
+## 🧩 Tech Stack
+- Flutter (single codebase for all platforms)  
+- `AnimationController` for timing logic  
+- `GestureDetector` + `AnimatedScale` for interactivity
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖥️ Screenshots
+| Platform | Screenshot |
+|-----------|-------------|
+| Mobile | ![mobile](run_proofs/android.png) |
+| Web | ![web](run_proofs/web(chrome).png) |
+| Windows | ![windows](run_proofs/windows.png) |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎬 Gameplay Clips
+[Watch Gameplay Clip](run_proofs/android_clip.mp4)
+[Watch Gameplay Clip](run_proofs/web(chrome)_clip.mp4)
+[Watch Gameplay Clip](run_proofs/windows_clip.mp4)
